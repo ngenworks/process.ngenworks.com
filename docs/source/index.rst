@@ -33,9 +33,11 @@ just connect with your team and find out. We have each other's back.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    new_business
+   discovery
+   definition
    
 
 
