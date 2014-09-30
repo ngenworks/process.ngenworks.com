@@ -38,6 +38,7 @@ Contents:
    new_business
    discovery
    definition
+   design
    
 
 
