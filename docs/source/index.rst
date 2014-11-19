@@ -44,7 +44,11 @@ Contents:
    definition
    design
    development
-   
+   quality_control
+   delivery_launch
+   ongoing_maintenance
+   glossary
+
 
 
 
