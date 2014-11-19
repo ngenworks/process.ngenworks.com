@@ -7,7 +7,7 @@ Contents:
 .. contents::
   :local:
 
-`Discovery Proposal <http://bradfrostweb.com/blog/post/atomic-web-design/>`_
+`Discovery Proposal <http://processngenworkscom.readthedocs.org/en/latest/other_helpful_information/discovery_proposal.html>`_
 
 -------------------
 Monday Update Email
