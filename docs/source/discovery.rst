@@ -89,7 +89,7 @@ What’s NOT included:
 * design templates
 * development 
 
-Here's an example of a 'Discovery proposal <http://processngenworkscom.readthedocs.org/en/latest/templates.html#discovery-proposal>`_ response we've sent.
+Here's an example of a `Discovery proposal <http://processngenworkscom.readthedocs.org/en/latest/templates.html#discovery-proposal>`_ response we've sent.
 
 You now have the strategy and recommendations you need to make a solid estimate regarding the scope and budget. It’s time for the team to present the findings to the client, led by the project manager. Once the client has had a little time to “live” with the strategy/recommendation and if both the team and the client are feeling great about moving forward, a quick follow-up meeting to discuss implementation and next steps will help keep things moving. Be sure to get approval of any scope defining documents such as a list of the expected components because the client will have clarity on how additional things change the agreed upon scope.
 
