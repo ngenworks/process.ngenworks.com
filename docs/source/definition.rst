@@ -33,9 +33,8 @@ We try to limit any unnecessary deliverables because ultimately they take a lot 
 * Updated components list; 'statement of work' document outlining scope
 * Marketing documentation for app submission or marketing site/sign up page
 
-------------------
 Define The Project
-------------------
+^^^^^^^^^^^^^^^^^^
 
 Time to get to it. The definition phase makes use of all of the data we’ve collected and analyzed. Using our understanding of project goals and our detailed research, we create the skeleton of the project while defining which areas need special focus. Remember, we don't want to predefine the project, or box it into something that already exists to make it easier to digest. Sometimes the best ideas are those that seem crazy or vague at first. For larger projects or multiple products, be sure to establish a clear timeline and rough ship dates. Keep the boat moving, phase the project--ship early and often.
 
@@ -60,31 +59,24 @@ These may include any of the following (but remember, only if absolutely necessa
 * **Team:** If building an app, determine sprint and approval schedule, update project management tool with expected timelines
 * **Developer:** Identify all the potential API endpoints that will need to be created in order to support the desired application functionality. 
 
-
-
-
 Check out the Roles & Responsibilities page to see how our tasks break down. 
 
-
 Architecture Brain Dump
-^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++
 
 Designers, developers and other teammates along with other stakeholders meet and discuss how the data model and data relationships need to be represented. This helps create a shared picture of the system we're building together.
-
 
 The team fills in any gaps in understanding by reaching out to the client with follow-up questions and working internally to keep the plan flexible enough to accommodate new information. Scope creep is most likely to happen during Definition and Development. Make sure the goals and the plan to implement those goals don't get slippery. Regular communication and documenting ALL additional requests and changes with your team and the client will help you stick to what you've determined fits the project budget and timeline.
 
 .. note:: A good way to discuss potential scope creep with clients is to say: "That's a great idea. Let's look at how much additional time that will take and how much that will cost." 
 
-------------
 Double Check
-------------
+^^^^^^^^^^^^
 
 Once the documents are created and polished, the team does an internal review before presenting them to the client. This is a great time to reassess high-level functionality, overall branding and tone, the intended project goals, and make sure everything is consistent and supports the client’s business goals. Feel free to reach out to one or two people outside of the team for a fresh perspective and reality check on your rationale.
 
------------------
 Deliver the Goods
------------------
+^^^^^^^^^^^^^^^^^
 
 Get it all in Basecamp and have the project manager connect with the client after submitting the definition documents to walk him or her through them. This way, any miscommunications or possible scope issues can be squared away quickly. Remember to record all additional requests, and get estimates and approvals whenever clients ask for new or different things.
 
@@ -95,4 +87,3 @@ The team completes two revisions to any client-facing formal documentation and a
    WAIT! SIGN-OFF REQUIRED!
 
 .. note:: The client will be sent a Basecamp message each Monday regarding the progress of the Definition phase. 
-
