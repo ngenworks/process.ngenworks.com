@@ -48,6 +48,7 @@ Contents:
    delivery_launch
    ongoing_maintenance
    glossary
+   roles_responsibilities
 
 
 
