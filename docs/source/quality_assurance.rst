@@ -34,23 +34,28 @@ First the team reviews the site or app internally and tries to break it. Yes, yo
 
 The following is just a portion of what we're testing:
 
-* The Look
+* **The Look**
 
   - Visual & type elements
   - Spacing, headings & hover states
   - Logos, favicons, image rendering) 
 
-* The Functionality
-           > Phone, tablet, desktop layouts
-           > Responsive content breaks 
-* The Forms
-           > Error messages
-           > Functionality of mandatory fields
-           > Forms submissions 
-* The Interactions
-           > Page loads, buttons, live links
-           > Print styles, media, downloads
-           > Search & 404's 
+* **The Functionality**
+  
+  - Phone, tablet, desktop layouts
+  - Responsive content breaks
+  
+* **The Forms**
+
+  - Error messages
+  - Functionality of mandatory fields
+  - Forms submissions
+  
+* **The Interactions**
+
+  - Page loads, buttons, live links
+  - Print styles, media, downloads
+  - Search & 404's 
 
 Next, the assigned testing team will complete a thorough audit of the entire project’s design elements, content, and functionality in different browsers to ensure that everything is up to snuff. (The browsers to test have been predetermined in the proposal.)
 
