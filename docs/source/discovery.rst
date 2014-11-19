@@ -32,7 +32,7 @@ It also allows both sides the chance to see how we work together. Plus, we have 
 
 Discovery is made up of three basic steps: audit, analysis, and strategy. 
 
-**Audit**
+### Audit
 
 The audit phase is vital to a meaningful discovery. Here we ask a lot of questions and compile all relevant data.
 
