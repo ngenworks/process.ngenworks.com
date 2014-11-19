@@ -46,3 +46,4 @@ Table of Contents:
    other_helpful_information
    templates
       discovery_proposal
+      monday_update_email
