@@ -35,9 +35,9 @@ First the team reviews the site or app internally and tries to break it. Yes, yo
 The following is just a portion of what we're testing:
 
 * The Look
-- Visual & type elements
-- Spacing, headings & hover states
-- Logos, favicons, image rendering) 
+  - Visual & type elements
+  - Spacing, headings & hover states
+  - Logos, favicons, image rendering) 
 * The Functionality
            > Phone, tablet, desktop layouts
            > Responsive content breaks 
