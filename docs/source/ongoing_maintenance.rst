@@ -30,7 +30,7 @@ Site Maintenence
 
 Site maintenance is usually less intensive and can be dealt with once the client compiles a list of things that require attention. Sometimes a maintenance agreement is implemented.
 
-Lead the client to the 'nGen maintenance form <http://www.qcatpro.com/#requestb>`. Once a maintenance request is received, Lori sends the information to the team for estimating. After the estimate is approved, the work is scheduled with the team (designer or developer). Lori invoices for the work once completed.
+Lead the client to the `nGen maintenance form <http://www.qcatpro.com/#requestb>`_. Once a maintenance request is received, Lori sends the information to the team for estimating. After the estimate is approved, the work is scheduled with the team (designer or developer). Lori invoices for the work once completed.
 
 ---------------
 App Maintenance
@@ -44,5 +44,5 @@ Coordinate the details with the rest of the team and be sure to get it all in wr
 Ongoing Testing
 ---------------
 
-We also offer ongoing testing options through `QCat <http://www.qcatpro.com/#requestb>`_ for sites that need browser testing or larger, more complex sites and apps that will be releasing new versions fairly regularly. 
+We also offer ongoing testing options through `QCat <http://www.qcatpro.com>`_ for sites that need browser testing or larger, more complex sites and apps that will be releasing new versions fairly regularly. 
 
