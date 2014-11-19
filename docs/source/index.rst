@@ -45,4 +45,4 @@ Table of Contents:
    roles_responsibilities
    other_helpful_information
    templates
-      discovery_proposal
+   discovery_proposal
