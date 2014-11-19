@@ -27,18 +27,21 @@ Typical Outcomes
 
 The nitpicks are over, the team is happy, and the app or site is looking great. It’s time to hand it off to the client for the final review before launch.
 
+-----------
 The Meeting
-^^^^^^^^^^^
+-----------
 
 The team schedules a handoff and training meeting with the client. It’s a good idea to have the whole team present for the final meeting so nothing important is left out. If the budget doesn’t allow for it, make sure any recommendations or important information is relayed internally so the project manager can inform the client.
 
+-------------------
 Presenting The Site
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 The client is provided a temporary link to the site or app where it is being hosted on a testing server. The project manager and developer walks the client through the site, the functionality, and the CMS.
 
+--------
 Training
-^^^^^^^^
+--------
 
 Our PM and developer provide the client with CMS training. The client then spends a few days reviewing the site or app and recording any bugs or errors before providing written sign-off for launch. We make sure the client knows how to record bugs properly in Basecamp so we see them and can flatten them.
 
