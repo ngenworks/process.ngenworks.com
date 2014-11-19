@@ -22,7 +22,7 @@ Typical Outcomes
 ----------------
 
 * Living style guide built in HTML/CSS
-           > Including: color palettes, typographic headline, paragraph samples, buttons styles, grids, form styles, etc.
+  - Including: color palettes, typographic headline, paragraph samples, buttons styles, grids, form styles, etc.
 * Thumbnails and sketches
 * Branding/logo files in required formats
 * Design reviews and approvals
