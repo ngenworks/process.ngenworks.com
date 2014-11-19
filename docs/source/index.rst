@@ -50,6 +50,7 @@ Contents:
    glossary
    roles_responsibilities
    other_helpful_information
+   templates
 
 
 Indices and tables
