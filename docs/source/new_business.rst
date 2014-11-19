@@ -13,9 +13,8 @@ Making Contact
 
 A lead comes in through phone, email, referral, or nGen survey. 
 
---------------
 Screening Call
---------------
+^^^^^^^^^^^^^^
 
 New biz team sets up an investigatory call with the prospect to see if we’d make a good fit. New biz can determine if the project seems viable, if the client will be fun to work with and may have funds set aside for the project. The team acts as gatekeepers to vet leads as they come in.
 
@@ -24,7 +23,6 @@ New biz team sets up an investigatory call with the prospect to see if we’d ma
 **NOT US** If things look good but for some reason we can’t take the lead, we send a polite “would love to work with you but the timing isn’t right” email. If there’s a shop we think could help the prospect we provide contact information for the prospect to initiate contact.
 
 **NO THANKS** If things don’t look good (red flags, ridiculous budget, or nonexistent timeline), a ‘thanks but no thanks” email is sent to the lead. 
-
 
 --------------
 Call For Teams
@@ -66,9 +64,8 @@ We have started estimating time in weeks, not hours. This way, we can determine 
 
 We're working hard to reduce the number of projects our teammates are working on at any given time so that they can stay productive without being spread thin across too many tasks. Our ultimate goal is to reduce the number of projects each team member has on their plate to no more than three (two billable, and one internal). We're also very excited about our team-creation project called Jellyfish Jobs which should be ready soon. It will let us form virtual teams with core members and Friendgeneers when new projects come in and let us track how many active projects each teammate has at any given time.
 
----------
 Timelines
----------
+^^^^^^^^^
 
 Timelines on a project always change. Sometimes, through no fault of their own, a client will need more time to get approvals or other deliverables ready for our team. An important thing to note is that with weekly estimating, when our clients takes longer than anticipated to complete tasks, we add additional weeks to the budget to accommodate the delays. Because this time can add up quickly and blow the budget, we protect our clients and ourselves with a "Pause Clause" in our proposal which says that we can put the project on hold and reschedule it according to our availability if deliverables are two weeks late. That way, no work is done on the project (aka no budget is used up during the pause) and the client now has some time to complete approvals or upload assets and deliverables.
 
@@ -76,12 +73,10 @@ If we've underestimated the number of weeks it will take to finish the project, 
 
 .. note:: A separate discovery can really help you out here. Although a final budget may not be clear until after separate discovery, determining a rough ballpark of your budget is important to both parties, especially since these numbers almost always evolve. It will help everyone know if it’s feasible for the project to proceed. 
 
---------
 Research
---------
+^^^^^^^^
 
 If we aren’t doing a discovery phase, we gather all the information we can to determine the estimated timeframe and budget. This includes things such as: 
-
 
 * overall project and business goals
 * obstacles and bright spots
@@ -94,27 +89,26 @@ If we aren’t doing a discovery phase, we gather all the information we can to 
 * extraneous concerns (marketing, branding, phases, business strategy)
 * required components
 
-
----------
 Calculate
----------
+^^^^^^^^^
 
 More than one stakeholder? Increase the scope. Tight timeline? Increase that scope! Multiple integrations or an in-house staff? You got it. For every layer of complexity, it’s best to increase the scope with extra time.
 
 Andy Rutledge created `a good resource for defining scope <http://www.andyrutledge.com/calculating-hours.php>`_, although it calculates hours not weeks. Consider using it as a guide to defining the size, projected timeline, and cost of your project.
 
---------------
 Chunk the Data
---------------
+^^^^^^^^^^^^^^
 
 Once we have an idea of all the bits and pieces, we have every teammate estimate how many **weeks** should go into his or her portion. That way, rather than simply breaking the scope into phases, we have a solid idea of all the components and how they fit together. Once this has been done, we can allocate time to phases for things like asset collection, content writing and approvals, and holidays or vacation if needed.
 
-------------------
 Prepare to Deliver
-------------------
+^^^^^^^^^^^^^^^^^^
 
 Make sure every team member has had a chance to weigh in on the estimated scope of the project before sending it over to the prospect to help us steer clear of miscalculations.
+
+-------------
 The Paperwork
+-------------
 
 The team works with the biz dev team to create a short proposal. The proposal should highlight who will be on the team, the expected scope, budget, and timeline. Ask nGeneers not on the team to review what you’ll send and how it will be formatted.
 
