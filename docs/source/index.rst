@@ -45,12 +45,3 @@ Table of Contents:
    roles_responsibilities
    other_helpful_information
    templates
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
