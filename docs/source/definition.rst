@@ -59,7 +59,7 @@ These may include any of the following (but remember, only if absolutely necessa
 * **Team:** If building an app, determine sprint and approval schedule, update project management tool with expected timelines
 * **Developer:** Identify all the potential API endpoints that will need to be created in order to support the desired application functionality. 
 
-Check out the Roles & Responsibilities http://processngenworkscom.readthedocs.org/en/latest/roles_responsibilities.html page to see how our tasks break down. 
+Check out the `Roles & Responsibilities <http://processngenworkscom.readthedocs.org/en/latest/roles_responsibilities.html>`_  page to see how our tasks break down. 
 
 Architecture Brain Dump
 +++++++++++++++++++++++
