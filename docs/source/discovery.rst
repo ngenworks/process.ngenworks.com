@@ -2,8 +2,6 @@
 Phase One: Discovery
 ====================
 
-
-
 Contents:
 
 .. contents::
@@ -32,7 +30,8 @@ It also allows both sides the chance to see how we work together. Plus, we have 
 
 Discovery is made up of three basic steps: audit, analysis, and strategy. 
 
-### Audit
+Audit
++++++
 
 The audit phase is vital to a meaningful discovery. Here we ask a lot of questions and compile all relevant data.
 
@@ -52,7 +51,8 @@ The basics of an audit:
 * Developer: **Explore** what kind of hosting needs the client has based on the projected user traffic, server and security requirements, and budget
 * Developer: **Determine** whether the project will need to be set on a specific framework or CMS, existing platforms, or integration with other services 
 
-**Analysis**
+Analysis
+++++++++
 
 After compiling our data, we need to organize it and create meaningful patterns.
 
@@ -62,7 +62,8 @@ What’s included in an analysis:
 * Conduct a competitive analysis of the above
 * Conduct user testing, whenever possible, to determine both the positives and the pitfalls of current product or service 
 
-**Strategy**
+Strategy
+++++++++
 
 Once we’ve organized the information, it’s time to create a document outlining recommendations for how we plan to follow through.
 
