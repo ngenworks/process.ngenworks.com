@@ -89,7 +89,7 @@ To dive into visual design, make sure the team has completed these things:
 UX Design
 ^^^^^^^^^
 
-Start by roughly sketching out major pages and layouts. Work closely with our content strategist to lay out a low-fidelity prototype referencing actual or virtually similar content. That way, we're not just making a bunch of grey lines symbolizing 'content'--we're actually building around the expected amount, type, and organization of content, without actually getting distracted by it. Another way to reference this type of design is to create a "live" grey box wireframe that shows the depth of functionality and lets us flesh out the major components of the site or app without boxing us into defined visuals. 
+Start by roughly sketching out major pages and layouts. Work closely with our content strategist to lay out a low-fidelity prototype referencing actual or virtually similar content. That way, we're not just making a bunch of grey lines symbolizing 'content'--we're actually building around the expected amount, type, and organization of content, without actually getting distracted by it. Another way to reference this type of design is to create a "live" grey box wireframe that shows the depth of functionality and lets us flesh out the major components of the site or app without boxing us into defined visuals. We're using `Travis Gertz's Live Wires prototyping method <http://www.ngenworks.com/blog/live-wires-better-prototyping/>`_ which basically allows us to build a live HMTL/CSS frame that we use throughout the project. It allows us to apply our design straight to the code without throwing anything away.
 
 .. note:: Here are some of the basic differences between wireframes and prototypes: 
 
@@ -102,7 +102,7 @@ We let our content, sitemaps, and layouts stay fluid during prototyping to preve
 Naming Conventions
 ++++++++++++++++++
 
-We're working to standardize our naming conventions in our HTML/CSS code so that it will translate if/when a mobile site needs to evolve (often with a wrapper like Phone Gap or other technology that makes a site into a non-native app). We may be able to save time by having consistencies in the way we refer to elements, preventing the naming conventions for mobile and sites from clashing when translating from CSS to Cocoa. Example TBA.
+We're working to standardize our naming conventions in our HTML/CSS code so that it will translate if/when a mobile site needs to evolve (often with a wrapper like Phone Gap or other technology that makes a site into a non-native app). We may be able to save time by having consistencies in the way we refer to elements, preventing the naming conventions for mobile and sites from clashing when translating from CSS to Cocoa. 
 
 Review Internally
 +++++++++++++++++
@@ -132,7 +132,7 @@ The first step in UI design is for us to gather any branding guidelines & visual
 Typography
 ++++++++++
 
-Next, we set base typographic decisions in the browser based on client guidelines. Typecast is a fantastic tool for making and comparing typographic decisions in the browser. It's a good idea to begin with the idea of the perfect paragraph...
+Next, we set base typographic decisions in the browser based on client guidelines. `Typecast <http://typecast.com/>`_ is a fantastic tool for making and comparing typographic decisions in the browser. It's a good idea to begin with the idea of the perfect paragraph...
 
 * Set the font
 * Size
@@ -175,7 +175,7 @@ Present a low-fidelity prototype to the team. Be sure to get the feedback of any
 
 .. note:: We usually design out a few core pages with the anticipated look and feel and get ready to show it off internally and then to the client in our first round of design. This prevents us from going too far in a particular design direction and getting feedback that forces us to change direction, eating up our budget. It also gives us a chance to review our available budget early on and re-estimate if necessary.
 
-It's also a good idea, no, a GREAT one for designers to review their code before any formal QA process. When in doubt, we can use [Lori's QA checklist] TBA to guide our work. Be sure to cover this time when estimating for the scope. 
+It's also a good idea, no, a GREAT one for designers to review their code before any formal QA process. Be sure to cover this time when estimating for the scope. 
 
 Show It Off
 +++++++++++
@@ -208,7 +208,7 @@ First, the designer or UXer outlines a user flow. This can be shared in a few di
 
 OR
 
-* The biggest time saver: Live Wires 'grey box wireframe'. Interactions and user flow are retained and the code can be saved and the design can be applied on top. Nothing is wasted. 
+* The biggest time saver: `Live Wires <http://www.agnostic.io/livewires>`_ 'grey box wireframe'. Interactions and user flow are retained and the code can be saved and the design can be applied on top. Nothing is wasted. 
 
 Then the designer works rapidly with the team to outline a high fidelity prototype that will guide development work. App design differs in that the prototype can be created before the visual design since we create and apply many of the design elements while our developers complete vertically sliced sprints. Once each 'slice' of the prototype has been completed and approved internally, the team determines which slices the client will see. Early feedback is a must since it helps us avoid scope creep.
 
@@ -242,7 +242,7 @@ The designer shares the style guide or component document internally and brings 
 Design Remaining UI Elements
 ++++++++++++++++++++++++++++
 
-After getting approval for the style guide/components document, the designer codes out or designs the remaining UI elements so that the developers can plunk the design over top of the prototype. Once this has been done, it's a good idea for the entire team to sync up and make sure there are no code conflicts or UI elements that conflict with the interactions or code. Once the design has been applied and the whole team is feeling good about it, show the client a walkthrough of the design and get final approval. Again, keep rounds of revision for design to two. Remember, we can differentiate between the look and feel and the interaction so if the client asks for any changes that aren't related to the aesthetics, add these requests in as scope changes or ongoing sprints.
+After getting approval for the style guide/components document, the designer codes out or designs the remaining UI elements so that the developers can plunk the design over top of the prototype. Once this has been done, it's a good idea for the entire team to sync up and make sure there are no code conflicts or UI elements that conflict with the interactions or code. Once the design has been applied and the whole team is feeling good about it, show the client a walkthrough of the design and get final approval. Again, keep rounds of revision for design to **two**. Remember, we can differentiate between the look and feel and the interaction so if the client asks for any changes that aren't related to the aesthetics, add these requests in as scope changes or ongoing sprints.
 
 .. note:: It's a good idea, no, a GREAT one for designers to review their code before any formal QA process. When in doubt, use our internal QA checklist to guide your work. Be sure to cover this time when estimating for the scope.
 
