@@ -15,6 +15,7 @@ New Business
 ^^^^^^^^^^^^
 
 Context
++++++++
 
 * How did you hear about us?
 * Why are you wanting to do this design/redesign?
@@ -26,6 +27,7 @@ Discovery
 ^^^^^^^^^
 
 Stakeholders
+++++++++++++
 
 * Who needs to be involved throughout the process?
 * What kind of involvement? Contact details.
@@ -34,6 +36,7 @@ Stakeholders
 * Who is our accounts/payment contact? 
 
 Goals
++++++
 
 * What do you need?
 * Are you willing to take a phased approach if necessary?
@@ -45,17 +48,20 @@ Timeline
 * Do you have a required launch date? If so, is it flexible? 
 
 Resources
++++++++++
 
 * What kind of people resources do you have? Are you willing to hire more if required?
 * Do you have an in-house team of anyone involved in the design/marketing/branding process? 
 
 Budget
+++++++
 
 * Do you have budget set aside for this project? Is it flexible?
 * Who finalizes these details and is there anything helpful we should know about the process?
 * What kind of additional documentation is required, if any? 
 
 Kickoff
++++++++
 
 * What is the purpose of this project?
 * What is the one thing we need to get right to make this a success?
@@ -72,12 +78,14 @@ Definition Phase
 ^^^^^^^^^^^^^^^^
 
 General
++++++++
 
 * Can we receive copies of all print, marketing, online assets for analysis?
 * What are the current mobile/other platform considerations?
 * What is your current user base like? 
 
 Admin
++++++
 
 * Who will be on the team? Does anyone need to be brought in?
 * What are the respective roles of these people? Is everyone clear on those roles?
@@ -89,6 +97,7 @@ Admin
 * Who will be editing these documents? 
 
 Content
++++++++
 
 * What are your expectations regarding content?
 * What is the current process for content creation?
@@ -102,6 +111,7 @@ Content
 * Do you require translation into multiple languages? Do you have contacts who do this? 
 
 UX
+++
 
 * Do you have a group of folks who use your site or products available who could take part in user testing?
 * Have you had any user testing done in the past?
@@ -109,6 +119,7 @@ UX
 * What actions would a typical user take when visiting your site? 
 
 IOS
++++
 
 * What are the current mobile/other platform considerations?
 * Is your desired application a native application? Responsive web application? Hybrid application? 
@@ -121,6 +132,7 @@ IOS
 * Do you have an Apple Developer account? 
 
 Design
+++++++
 
 * What are you, the client, all about (what’s your philosophy)?
 * What are the attitudes or beliefs that shape your business culture?
@@ -145,6 +157,7 @@ Design
 * What is your current user base like? 
 
 Development
++++++++++++
 
 * What are your current logins for your CMS/hosting/analytics accounts?
 * What technologies does your current app/site/software use?
@@ -156,6 +169,7 @@ Design Phase
 ^^^^^^^^^^^^
 
 General
++++++++
 
 * Do the designs reinforce the project and organization’s goals?
 * Has the team discussed functionality and specific design elements together?
@@ -166,6 +180,7 @@ Development Phase
 ^^^^^^^^^^^^^^^^^
 
 Technology
+++++++++++
 
 * Is there any existing data that needs to be imported? What kind and where is it currently stored?
 * What are CMS needs/scope? (such as preview/draft/approval functionality; how many users; differing permission levels)
@@ -188,20 +203,24 @@ Technology
 * How much focus have you put toward online security? Data encryption? 
 
 IOS
++++
 
 * Are you familiar with the App Store submission process? (if not, we will need to spend time walking them through it, or getting the metadata we need from them) 
 
 Social Stuff
+++++++++++++
 
 * Are social sharing links needed? On which site pages? Which ones?
 * Will people require social networking sign ups (such as sign up via FB)? 
 
 Hosting
++++++++
 
 * What are your hosting needs?
 * Have we created a hosting agreement? 
 
 Payment Gateways
+++++++++++++++++
 
 * Do you require payment functionality?
 * Do you need an online shop?
@@ -214,6 +233,7 @@ Testing/Launch
 ^^^^^^^^^^^^^^
 
 Admin
++++++
 
 * Have final payment stipulations been communicated?
 * Have all third-party addons been included into the final invoice?
@@ -222,11 +242,13 @@ Admin
 * Have we delivered any files or documents to aid the client with styles/guidelines/expectations? 
 
 Content
++++++++
 
 * Has a style guide been provided to the client?
 * Does the client have a plan for maintaining content? 
 
 Development
++++++++++++
 
 * Have we tested in all relevant browsers?
 * Have purchased and billed for EE licenses purchased (as well as add-on’s, etc.)?
@@ -237,18 +259,22 @@ Development
 * Has Google analytics or other web metric measurement been installed? 
 
 Hosting
++++++++
 
 * Have we sent your annual hosting invoice? 
 
 IOS
++++
 
 * ... 
 
 Training
+++++++++
 
 * Do participants have the account and login credentials? 
 
 UX
+++
 
 * Do we need a plan for follow-up testing?
 * What type of testing will we be conducting (warm body vs specialized)? 
