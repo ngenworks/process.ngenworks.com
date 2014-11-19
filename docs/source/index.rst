@@ -36,7 +36,7 @@ Table of Contents:
    definition
    design
    development
-   quality_control
+   quality_assurance
    delivery_launch
    ongoing_maintenance
    glossary
