@@ -3,7 +3,9 @@ Monday Update Email
 -------------------
 
 Good afternoon team,
+
 Here's your weekly update and hours report information. Please let us know if you have any questions!
+
 Thank you!
 
 Weekly Status Report
