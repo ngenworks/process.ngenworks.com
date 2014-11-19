@@ -49,8 +49,7 @@ Contents:
    ongoing_maintenance
    glossary
    roles_responsibilities
-
-
+   other_helpful_information
 
 
 Indices and tables
