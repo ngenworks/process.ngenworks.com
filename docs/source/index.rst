@@ -2,8 +2,6 @@
 The nGen Works Process
 ======================
 
-Contents:
-
 .. contents::
   :local:
 
