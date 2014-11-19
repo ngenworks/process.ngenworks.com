@@ -54,8 +54,8 @@ Weekly Hours Report
 
 **Overall**
 
-xx.xx hours spent of xxx total hours budgeted
-$xxx.xx of $x,xxx.xx budgeted 
+* xx.xx hours spent of xxx total hours budgeted
+* $xxx.xx of $x,xxx.xx budgeted 
 
 Anticipated milestones for the next 30 days 
 +++++++++++++++++++++++++++++++++++++++++++
