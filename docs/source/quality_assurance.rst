@@ -22,7 +22,7 @@ Typical Outcomes
  * Browser testing
  * Bug fixing
  
-As mentioned in the Development section, our developers do integrative testing during dev to save time in QA. Additionally, our QA team, 'QCat <http://www.qcatpro.com/>, tests apps at various intervals during dev to find and report issues early.
+As mentioned in the Development section, our developers do integrative testing during dev to save time in QA. Additionally, our QA team, `QCat <http://www.qcatpro.com/>`_, tests apps at various intervals during dev to find and report issues early.
 
 Once final development is complete, it’s time for a full site or app nitpick.
 
