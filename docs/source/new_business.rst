@@ -11,7 +11,7 @@ Contents:
 Making Contact
 --------------
 
-A lead comes in through phone, email, referral, or nGen survey. 
+A lead comes in through phone, email, or referral. 
 
 Screening Call
 ^^^^^^^^^^^^^^
@@ -58,7 +58,9 @@ Getting The Scope
 -----------------
 
 Getting a solid handle on the scope of a project involves a couple of steps. The project manager works with the rest of the team to analyze the scope of the project. Any roles that are in need of a team member can be analyzed and filled from a list of Friendgeneers.
+
 Estimating
+^^^^^^^^^^
 
 We have started estimating time in weeks, not hours. This way, we can determine our team availability according to the percentage of time not already allocated to other projects. So for example, if we know a team member needs to devote 30% of the week to one project and 30% to another, we say they are 30% available that week for additional work. Our teammate can estimate how many weeks their portion of work might take if they only has 30% of each week available to a particular set of tasks. From there, we get every project teammate's availability and their estimate on the number of weeks they need to finish the project including time for approvals and turnarounds. Estimating in weeks instead of hours give us a fairly accurate idea of the total number of weeks a project should take and gives us the flexibility to adjust this timeframe if client approvals or deliverables come in late. It also prevents us from over scheduling team members and helps us maintain a high-level view of our overall availability.
 
