@@ -36,6 +36,7 @@ Table of Contents:
    new_business
    discovery
    definition
+      app_store_submission_content
    design
    development
    quality_assurance
