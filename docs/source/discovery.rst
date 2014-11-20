@@ -111,4 +111,4 @@ If there are any concerns (especially with regard to what is covered within the 
 
     WAIT! SIGN-OFF REQUIRED!
 
-.. note:: Regardless of the type of Discovery done, the client will be sent a `Basecamp message each Monday <http://processngenworkscom.readthedocs.org/en/latest/templates.html#monday-update-email>`_ updating them on the progress of the phase. 
+.. note:: Regardless of the type of Discovery done, the client will be sent a `Basecamp message each Monday <http://processngenworkscom.readthedocs.org/en/latest/monday_update_email.html>`_ updating them on the progress of the phase. 
