@@ -186,7 +186,7 @@ Show It Off
 
 Ask clients to provide feedback based on what is and what’s not working with the design. Gently guide them away from providing solutions for what’s not working; if they’ll clearly relay the issue, we’ll provide the solution. This improves the ability to act on the input and allows the client to respond pragmatically. Record any additional requests by the client so the team can track them and budget for them, if needed. Clients provide written feedback in Basecamp so we can either re-estimate new requests or adjust our design direction and resubmit.
 
-**Round Two:** Now that we've adjusted our designs and made sure we have enough time estimated for round two, we flesh out the rest of the pages and send our final round of designs in screenshot form to the client and get written feedback and approval in Basecamp. Additional requests can estimated when the client would like to see more rounds of changes.
+**Round Two:** Now that we've adjusted our designs and made sure we have enough time estimated for round two, we flesh out the rest of the pages and send our final round of designs in screenshot form to the client and get written feedback and approval in Basecamp. Additional revisions can be estimated when the client would like to see more rounds of changes.
 
 We try to work closely with the content strategist, user experience team, and developer to support the content, user flow, and functionality of our designs.
 
