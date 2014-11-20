@@ -48,7 +48,7 @@ These may include any of the following (but remember, only if absolutely necessa
 * **Team:** Assess target audience, define site goals (make sure they're aligned with business goals)
 * **Content strategist:** Complete a content document with content types, core messages, and final copy; pay special attention to process flow: things like cross linking, calls to action, images, and video placement
 * **Content strategist:** Create formatting document for content; style guide, voice and tone, and nomenclature
-* **Content strategist and PM:** Work with client to `create content for app store submission <http://processngenworkscom.readthedocs.org/en/latest/roles_responsibilities.html>`_ if needed
+* **Content strategist and PM:** Work with client to `create content for app store submission <http://processngenworkscom.readthedocs.org/en/latest/app_store_submission_content.html>`_ if needed
 * **Designer:** Create a mood board highlighting current and desired branding elements
 * **UX:** Create usage scenarios and mental models for complex functionalities
 * **UX:** Document user/process/task flow; determine how you want users to behave
