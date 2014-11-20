@@ -20,4 +20,3 @@ Basic Content For App Store Submission
 * End User License Agreement (applies Apple EULA by default)
 * Pricing, Available Date, Territories
 * Large App Icon 512 x 512
-
