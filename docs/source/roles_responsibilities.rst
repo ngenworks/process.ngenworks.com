@@ -36,7 +36,7 @@ Business Development
 Administrative Support
 ----------------------
 
-* Aiding in scoping and estimating
+* Aids in scoping and estimating
 * Setting up/closing projects in Harvest and Basecamp, inviting people in, Welcome messages
 * Weekly updates
 * nGeneer and Friendgeneer 'where's the bathroom' support
@@ -64,7 +64,7 @@ Project Management
 * Vacation tracking
 * Creation of and attention to milestones
 * Maintaining a high-level view of the project
-* Monitoring and involvement in discovery, definition, design, development QA, launch phase
+* Monitoring and involvement in discovery, definition, design, development, QA, launch phase
 * Running kickoff meeting
 * Organizing timelines and client deliverables
 * Ensuring scope is well defined and clearly communicated
@@ -114,8 +114,7 @@ UX
 * Verifying all planning docs meet requirements set out in kickoff and proposal
 * Research (may include market research, user interviews, heuristic review, etc.)
 * Usability testing and recommendations
-* Participation in kickoff meeting
-* Monitoring and involvement in discovery, definition, design, development, QA phase, launch
+* Monitoring and involvement in discovery, definition, design, development, QA, launch phase
 * Attention to budget
 * Attention to milestones
 * Attention to scope
