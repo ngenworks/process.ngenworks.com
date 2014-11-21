@@ -11,7 +11,7 @@ Contents:
 nGeneer
 -------
 
-* What we call any core team member at nGen Works. Team members have specific commitments to projects and to nGen Works are able to work on internal projects and help guide where nGen will go next. They get first dibs on all incoming projects and one core team member must be on every project. 
+* What we call any core team member at nGen Works. Team members with specific commitments to projects and to nGen Works are able to work on internal projects and help guide where nGen will go next. They get first dibs on all incoming projects and one core team member must be on every project. 
 
 ------------
 Friendgeneer
@@ -35,7 +35,7 @@ Proposal
 Scope change
 ------------
 
-* A scope change is an agreed upon adjustment to the components, functionality, or complexity of an app or site that was initially approved in the proposal and that require re-estimation. Scope changes need to be documented and approved by the client as soon as possible to prevent scope creep. 
+* A scope change is an agreed upon adjustment to the components, functionality, or complexity of an app or site that was initially approved in the proposal and that requires re-estimation. Scope changes need to be documented and approved by the client as soon as possible to prevent scope creep. 
 
 -----------
 Scope creep
