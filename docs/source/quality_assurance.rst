@@ -38,7 +38,7 @@ The following is just a portion of what we're testing:
 
   - Visual & type elements
   - Spacing, headings & hover states
-  - Logos, favicons, image rendering) 
+  - Logos, favicons, image rendering 
 
 * **The Functionality**
   
@@ -59,7 +59,7 @@ The following is just a portion of what we're testing:
 
 Next, the assigned testing team will complete a thorough audit of the entire project’s design elements, content, and functionality in different browsers to ensure that everything is up to snuff. (The browsers to test have been predetermined in the proposal.)
 
-The testing team also makes sure that no details have been forgotten, including CMS accounts, analytics, and licensing of the CMS or add-ons used.
+The testing team also makes sure that no details have been forgotten, including CMS accounts, analytics, and licensing of the CMS or purchasing of add-ons used.
 
 ---------------
 Record the Bugs
@@ -69,4 +69,4 @@ The testing team records any bugs in a to-do list in Basecamp so the developer c
 
 The testing team has access to the CMS so can make any content-related fixes without the developer having to be involved.
 
-When testing and quality assurance are over, and everyone is feeling like the site or app is ready, it’s time to hand over the site or app to the client for a final review. Depending on complexity, plan ahead to allow the client at least one to two weeks to kick the tires prior to launch. 
+When testing and quality assurance is over, and everyone is feeling like the site or app is ready, it’s time to hand over the site or app to the client for a final review. Depending on complexity, plan ahead to allow the client at least one to two weeks to kick the tires prior to launch. 
