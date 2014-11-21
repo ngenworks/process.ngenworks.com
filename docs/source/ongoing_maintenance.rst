@@ -30,7 +30,7 @@ Site Maintenence
 
 Site maintenance is usually less intensive and can be dealt with once the client compiles a list of things that require attention. Sometimes a maintenance agreement is implemented.
 
-Lead the client to the `nGen maintenance form <http://www.qcatpro.com/#requestb>`_. Once a maintenance request is received, Lori sends the information to the team for estimating. After the estimate is approved, the work is scheduled with the team (designer or developer). Lori invoices for the work once completed.
+Lead the client to the `QCat maintenance form <http://www.qcatpro.com/#requestb>`_. Once a maintenance request is received, we send the information to the team for estimating. After the estimate is approved, the work is scheduled with the team (designer or developer). Requests estimated under $500 will be invoiced once the work is completed. Requests estimated over $500 will require a deposit payment before the work begins, with final payment due upon completion.
 
 ---------------
 App Maintenance
