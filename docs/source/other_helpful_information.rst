@@ -125,7 +125,9 @@ IOS
 * What are the current mobile/other platform considerations?
 * Is your desired application a native application? Responsive web application? Hybrid application? 
 
-.. note:: Native = iOS; Responsive Web = HTML/CSS/JS (not on Apple App Store); Hybrid = iOS + HTML/CSS/JS (on Apple App Store)
+.. note:: Native = iOS
+Responsive Web = HTML/CSS/JS (not on Apple App Store)
+Hybrid = iOS + HTML/CSS/JS (on Apple App Store)
 
 * Are you interested in only iPhone? Android? Other platforms?
 * Is there an existing API the mobile application will interface with? If so, what response types does it support (XML, JSON)?
